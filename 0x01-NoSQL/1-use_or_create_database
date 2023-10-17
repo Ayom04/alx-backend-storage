@@ -1,2 +1,2 @@
-// script that shows all my db in mongodb
-show dbs
+// create or use a database
+use my_db
